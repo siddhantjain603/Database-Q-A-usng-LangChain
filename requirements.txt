@@ -1,0 +1,15 @@
+openai
+python-dotenv
+langchain
+langchain_community
+langchain-openai
+tiktoken
+faiss-cpu
+protobuf
+langchain_experimental
+mysql-connector-python
+pymysql
+sentence-transformers
+chromadb
+ipykernel
+streamlit
